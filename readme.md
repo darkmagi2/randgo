@@ -14,7 +14,7 @@ I basically made this to randomly choose things for me, but also keep track of w
 
 Clean up the code, add some comments maybe.
 
-~~Make it read the output file to do "something"~~
+~~Make it read the output file to do "something"~~ Done!
 
 Allow the manipulation of input (chars.txt). Perhaps to add/remove before continuing.
 
